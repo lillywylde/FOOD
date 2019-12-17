@@ -6,7 +6,7 @@ background-image:url(https://media.giphy.com/media/l2QE2buzULWxfb9qo/giphy.gif);
   background-repeat: no-repeat;
   background-position:center;
   background-size: cover;
-
+  overflow: scroll;
 }
 
 .project-grid {
@@ -77,13 +77,40 @@ background-image:url(https://media.giphy.com/media/l2QE2buzULWxfb9qo/giphy.gif);
 .project-6 {
     text-align: center;
     color: aliceblue;
-    
     margin-right:600px;
     margin-left:600px;
     margin-top: 200px;
     font-family: 'ZCOOL KuaiLe', cursive; 
     border:1px solid;
     border-color: white;
+}
+
+.text-2 { 
+  text-align: left;
+    color: aliceblue;
+    margin-right:800px;
+    margin-left:400px;
+    margin-top: 10px;
+    font-family: 'ZCOOL KuaiLe', cursive; 
+    border:1px solid;
+    border-color: white;
+}
+
+.text-3 {
+  text-align: right;
+    color: white;
+    margin-right:500px;
+    margin-left:700px;
+    margin-top: 10px;
+    font-family: 'ZCOOL KuaiLe', cursive; 
+    border:1px solid;
+    border-color: white;
+
+}
+
+.text {
+
+}
     
 
 
